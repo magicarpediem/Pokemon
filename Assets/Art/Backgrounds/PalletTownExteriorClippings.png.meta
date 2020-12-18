@@ -1,0 +1,1704 @@
+fileFormatVersion: 2
+guid: 5f6a51c0d8ebc2e4dbca18ae87d8f9eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5057571137328227623
+    second: PalletTownExteriorClippings_0
+  - first:
+      213: 9211847002119737422
+    second: PalletTownExteriorClippings_1
+  - first:
+      213: -5060981436018510228
+    second: PalletTownExteriorClippings_2
+  - first:
+      213: -6754734532731469705
+    second: PalletTownExteriorClippings_3
+  - first:
+      213: -1541233037209226920
+    second: PalletTownExteriorClippings_4
+  - first:
+      213: 5216305610234881337
+    second: PalletTownExteriorClippings_5
+  - first:
+      213: -6513547269635665363
+    second: PalletTownExteriorClippings_6
+  - first:
+      213: 3014642757170352431
+    second: PalletTownExteriorClippings_7
+  - first:
+      213: -6214350919074512257
+    second: PalletTownExteriorClippings_8
+  - first:
+      213: 3158601172650721229
+    second: PalletTownExteriorClippings_9
+  - first:
+      213: -3788786740622361327
+    second: PalletTownExteriorClippings_10
+  - first:
+      213: -6001962579128472023
+    second: PalletTownExteriorClippings_11
+  - first:
+      213: 7159420780997965459
+    second: PalletTownExteriorClippings_12
+  - first:
+      213: 1804495837056562681
+    second: PalletTownExteriorClippings_13
+  - first:
+      213: -1224248864479868172
+    second: PalletTownExteriorClippings_14
+  - first:
+      213: 8462635310359268589
+    second: PalletTownExteriorClippings_15
+  - first:
+      213: -6724956017871876180
+    second: PalletTownExteriorClippings_16
+  - first:
+      213: -6266855441235587793
+    second: PalletTownExteriorClippings_17
+  - first:
+      213: 4420799850374940739
+    second: PalletTownExteriorClippings_18
+  - first:
+      213: 7286240294833573369
+    second: PalletTownExteriorClippings_19
+  - first:
+      213: 5100321789380835777
+    second: PalletTownExteriorClippings_20
+  - first:
+      213: 1460414357184184935
+    second: PalletTownExteriorClippings_21
+  - first:
+      213: -2402285039532993166
+    second: PalletTownExteriorClippings_22
+  - first:
+      213: 2534655485939527231
+    second: PalletTownExteriorClippings_23
+  - first:
+      213: 5986742124877538751
+    second: PalletTownExteriorClippings_24
+  - first:
+      213: -5898136566982013601
+    second: PalletTownExteriorClippings_25
+  - first:
+      213: 8042335184183874393
+    second: PalletTownExteriorClippings_26
+  - first:
+      213: -3439666120997581732
+    second: PalletTownExteriorClippings_27
+  - first:
+      213: 925505737332806274
+    second: PalletTownExteriorClippings_28
+  - first:
+      213: 3004418759170889773
+    second: PalletTownExteriorClippings_29
+  - first:
+      213: -4158752475178376377
+    second: PalletTownExteriorClippings_30
+  - first:
+      213: -4200028895391482443
+    second: PalletTownExteriorClippings_31
+  - first:
+      213: 3353696063280296558
+    second: PalletTownExteriorClippings_32
+  - first:
+      213: -5188922897436510961
+    second: PalletTownExteriorClippings_33
+  - first:
+      213: 8049356518576052671
+    second: PalletTownExteriorClippings_34
+  - first:
+      213: -475724197109329357
+    second: PalletTownExteriorClippings_35
+  - first:
+      213: -9105610678341337057
+    second: PalletTownExteriorClippings_36
+  - first:
+      213: 6159343286970860928
+    second: PalletTownExteriorClippings_37
+  - first:
+      213: 5400086607392343269
+    second: PalletTownExteriorClippings_38
+  - first:
+      213: -7824917441441584698
+    second: PalletTownExteriorClippings_39
+  - first:
+      213: -2855348242549744501
+    second: PalletTownExteriorClippings_40
+  - first:
+      213: 7081624263659286861
+    second: PalletTownExteriorClippings_41
+  - first:
+      213: -2369077076458960185
+    second: PalletTownExteriorClippings_42
+  - first:
+      213: -9033122276494742505
+    second: PalletTownExteriorClippings_43
+  - first:
+      213: -369067830868748293
+    second: PalletTownExteriorClippings_44
+  - first:
+      213: -4453535182441764996
+    second: PalletTownExteriorClippings_45
+  - first:
+      213: -1343506548468915340
+    second: PalletTownExteriorClippings_46
+  - first:
+      213: -5993809055525411634
+    second: PalletTownExteriorClippings_47
+  - first:
+      213: 8517242351445763961
+    second: PalletTownExteriorClippings_48
+  - first:
+      213: -2976974811459568993
+    second: PalletTownExteriorClippings_49
+  - first:
+      213: -4064030734888882503
+    second: PalletTownExteriorClippings_50
+  - first:
+      213: -1207703802919065062
+    second: PalletTownExteriorClippings_51
+  - first:
+      213: -798072768065652883
+    second: PalletTownExteriorClippings_52
+  - first:
+      213: -1733108706798370559
+    second: PalletTownExteriorClippings_53
+  - first:
+      213: 3100873115742831240
+    second: PalletTownExteriorClippings_54
+  - first:
+      213: 8401951704721319564
+    second: PalletTownExteriorClippings_55
+  - first:
+      213: -5548718227738287669
+    second: PalletTownExteriorClippings_56
+  - first:
+      213: 7877437207562420383
+    second: PalletTownExteriorClippings_57
+  - first:
+      213: -6176219610775896825
+    second: PalletTownExteriorClippings_58
+  - first:
+      213: -6913763168730524732
+    second: PalletTownExteriorClippings_59
+  - first:
+      213: 1750123110749736205
+    second: PalletTownExteriorClippings_60
+  - first:
+      213: 3973873523923080095
+    second: PalletTownExteriorClippings_61
+  - first:
+      213: 8938983326855268554
+    second: PalletTownExteriorClippings_62
+  - first:
+      213: -5443692813979568065
+    second: PalletTownExteriorClippings_63
+  - first:
+      213: 1293769385604729701
+    second: PalletTownExteriorClippings_64
+  - first:
+      213: 3653602852785866586
+    second: PalletTownExteriorClippings_65
+  - first:
+      213: 1527907341625012815
+    second: PalletTownExteriorClippings_66
+  - first:
+      213: 4396743120964357302
+    second: PalletTownExteriorClippings_67
+  - first:
+      213: 3254527391723188685
+    second: PalletTownExteriorClippings_68
+  - first:
+      213: 6918143768170425531
+    second: PalletTownExteriorClippings_69
+  - first:
+      213: 812603556785530261
+    second: PalletTownExteriorClippings_70
+  - first:
+      213: -157321287249791434
+    second: PalletTownExteriorClippings_71
+  - first:
+      213: 489866735080897602
+    second: PalletTownExteriorClippings_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725a7ba372a103640800000000000000
+      internalID: 5057571137328227623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40189eba0e07df70800000000000000
+      internalID: 9211847002119737422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66354bb238c3c9b0800000000000000
+      internalID: -5060981436018510228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7700a780bbc5242a0800000000000000
+      internalID: -6754734532731469705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8513c0de7b07c9ae0800000000000000
+      internalID: -1541233037209226920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9356de9b05a046840800000000000000
+      internalID: 5216305610234881337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2296adb44b3b95a0800000000000000
+      internalID: -6513547269635665363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d7d98d9926d920800000000000000
+      internalID: 3014642757170352431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7201fe93c032c9a0800000000000000
+      internalID: -6214350919074512257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf7af2180b95db20800000000000000
+      internalID: 3158601172650721229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d7e7388868b6bc0800000000000000
+      internalID: -3788786740622361327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e2cd385deb4bca0800000000000000
+      internalID: -6001962579128472023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396fee0a44f5b5360800000000000000
+      internalID: 7159420780997965459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f57d66376bda0910800000000000000
+      internalID: 1804495837056562681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa8004e428920fe0800000000000000
+      internalID: -1224248864479868172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec44a15af1517570800000000000000
+      internalID: 8462635310359268589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf0f90d1282ca2a0800000000000000
+      internalID: -6724956017871876180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dcd6eed28a709a0800000000000000
+      internalID: -6266855441235587793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348c2b0aa06d95d30800000000000000
+      internalID: 4420799850374940739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd41b9a1fced1560800000000000000
+      internalID: 7286240294833573369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ba3015abf7c640800000000000000
+      internalID: 5100321789380835777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76208d8ce1f644410800000000000000
+      internalID: 1460414357184184935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27596610c7e59aed0800000000000000
+      internalID: -2402285039532993166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eab6b3cb7ec2320800000000000000
+      internalID: 2534655485939527231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb561335e3e251350800000000000000
+      internalID: 5986742124877538751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d8b40ca0c952ea0800000000000000
+      internalID: -5898136566982013601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953d7e96d3d1c9f60800000000000000
+      internalID: 8042335184183874393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4ef713e9d340d0800000000000000
+      internalID: -3439666120997581732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282de47809e08dc00800000000000000
+      internalID: 925505737332806274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2896e081f6d1b920800000000000000
+      internalID: 3004418759170889773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743673868a42946c0800000000000000
+      internalID: -4158752475178376377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd70dbe8ff76b5c0800000000000000
+      internalID: -4200028895391482443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62b2780dc8ba8e20800000000000000
+      internalID: 3353696063280296558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f76bed1e3df7b0800000000000000
+      internalID: -5188922897436510961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb953383b1f05bf60800000000000000
+      internalID: 8049356518576052671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3329d3cfc53e569f0800000000000000
+      internalID: -475724197109329357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f100676e45f52a180800000000000000
+      internalID: -9105610678341337057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085c59df5126a7550800000000000000
+      internalID: 6159343286970860928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e407f59826f0fa40800000000000000
+      internalID: 5400086607392343269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9ad129b0f486390800000000000000
+      internalID: -7824917441441584698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c59c4d6e3cf58d0800000000000000
+      internalID: -2855348242549744501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_41
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41f23c6fbbf64260800000000000000
+      internalID: 7081624263659286861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca842c63f85f1fd0800000000000000
+      internalID: -2369077076458960185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cecd82627e3a280800000000000000
+      internalID: -9033122276494742505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_44
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75b0363cec0eaf0800000000000000
+      internalID: -369067830868748293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_45
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77aadfe85dd132c0800000000000000
+      internalID: -4453535182441764996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473691199e7ea5de0800000000000000
+      internalID: -1343506548468915340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec463e9ab66b1dca0800000000000000
+      internalID: -5993809055525411634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_48
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97766d7dac2533670800000000000000
+      internalID: 8517242351445763961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9abaa18e29afa6d0800000000000000
+      internalID: -2976974811459568993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beadaa2499a997c0800000000000000
+      internalID: -4064030734888882503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aee193acf5d3fe0800000000000000
+      internalID: -1207703802919065062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_52
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b88abb0dace4f0800000000000000
+      internalID: -798072768065652883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101852640d2c2f7e0800000000000000
+      internalID: -1733108706798370559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882096d6ba3880b20800000000000000
+      internalID: 3100873115742831240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e6eb5f8ab99470800000000000000
+      internalID: 8401951704721319564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1ace49b2efef2b0800000000000000
+      internalID: -5548718227738287669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9004316767425d60800000000000000
+      internalID: 7877437207562420383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_58
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70db6ecacf8a94aa0800000000000000
+      internalID: -6176219610775896825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c353aa57016d00a0800000000000000
+      internalID: -6913763168730524732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d807952bfa94810800000000000000
+      internalID: 1750123110749736205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93d3cf5ae8062730800000000000000
+      internalID: 3973873523923080095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_62
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8095a99f5ad0c70800000000000000
+      internalID: 8938983326855268554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38b6644a3e1474b0800000000000000
+      internalID: -5443692813979568065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTownExteriorClippings_64
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bce3ac66464f110800000000000000
+      internalID: 1293769385604729701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
