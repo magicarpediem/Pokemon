@@ -2,7 +2,7 @@
     "name": "PlayerMovement",
     "maps": [
         {
-            "name": "Main",
+            "name": "Walk",
             "id": "c2e801ff-41bb-49eb-9afa-9d198800e912",
             "actions": [
                 {
@@ -124,6 +124,52 @@
                     "action": "Movement",
                     "isComposite": false,
                     "isPartOfComposite": true
+                }
+            ]
+        },
+        {
+            "name": "Action",
+            "id": "9241fe3e-678e-4230-8f66-4725823207d6",
+            "actions": [
+                {
+                    "name": "A",
+                    "type": "PassThrough",
+                    "id": "ee491de0-5eb9-444c-8f8c-973689aea699",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "B",
+                    "type": "PassThrough",
+                    "id": "7d1f8b47-5683-4aa7-a7b0-fc898b5620e4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4d6b2bef-9615-42a3-9f60-4fa359f947e2",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "531c6c24-1368-41a3-83e5-a1185e0bede7",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "B",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }

@@ -1,80 +1,84 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class DialogManager : MonoBehaviour
 {
-    public Text dialogText;
+	public Text dialogText;
 
-    public Text nameText;
+	public Text nameText;
 
-    public GameObject dialogBox;
+	public GameObject dialogBox;
 
-    public GameObject nameBox;
+	// public GameObject nameBox;
 
-    public string[] dialogLines;
+	public string[] dialogLines;
 
-    public int currentLine;
+	public int currentLine;
 
-    public static DialogManager instance;
+	public static DialogManager instance;
 
-    private bool justStarted;
+	// Start is called before the first frame update
+	void Start()
+	{
+		instance = this;
+	}
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        instance = this;
-    }
+	public void Dialog(DialogLines dialog)
+	{
+		if (!dialogBox.activeInHierarchy)
+		{
+			Initiate(dialog.lines);
+		}
+		else
+		{
+			NextLine();
+		}
+	}
 
-    // Update is called once per frame
-    void Update()
-    {
-        if (dialogBox.activeInHierarchy)
-        {
-            if (Input.GetButtonUp("Fire1"))
-            {
-                if (!justStarted)
-                {
-                    currentLine++;
-                    if (currentLine >= dialogLines.Length)
-                    {
-                        dialogBox.SetActive(false);
-                        PlayerGridController.instance.canMove = true;
-                    }
-                    else
-                    {
-                        dialogText.text = dialogLines[currentLine];
-                    }
-                }
-                else
-                {
-                    justStarted = false;
-                }
-            }
-        }
-    }
+	private void Initiate(String[] newLines)
+	{
+		dialogLines = newLines;
 
-    public void ShowDialog(string[] newLines)
-    {
-        dialogLines = newLines;
+		currentLine = 0;
 
-        currentLine = 0;
+		dialogText.text = parse(dialogLines[0]);
+		dialogBox.SetActive(true);
+		currentLine++;
 
-        dialogText.text = dialogLines[0];
-        dialogBox.SetActive(true);
+		PlayerGridController.instance.canMove = false;
+	}
 
-        justStarted = true;
+	public void NextLine()
+	{
+		if (currentLine >= dialogLines.Length)
+		{
+			dialogBox.SetActive(false);
+			PlayerGridController.instance.canMove = true;
+			dialogLines = new string[0];
+			currentLine = 0;
+			return;
+		}
+		dialogText.text = parse(dialogLines[currentLine]);
+		currentLine++;
+	}
 
-        PlayerGridController.instance.canMove = false;
-    }
-
-    public void checkIfName()
-    {
-        if (dialogLines[currentLine].StartsWith("n-"))
-        {
-            nameText.text = dialogLines[currentLine];
-            currentLine++;
-        }
-    }
+	public String parse(String str)
+	{
+		if (str.Contains("\\n"))
+		{
+			str = str.Replace("\\n", "\n");
+		}
+		return str;
+	}
+	public void checkIfName()
+	{
+		if (dialogLines[currentLine].StartsWith("n-"))
+		{
+			nameText.text = dialogLines[currentLine];
+			currentLine++;
+		}
+	}
 }

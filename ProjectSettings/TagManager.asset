@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - CollisionLayer
+  - NPC
   layers:
   - Default
   - TransparentFX

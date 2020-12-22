@@ -40,13 +40,14 @@
      <Compile Include="Assets\Scripts\AreaExit.cs" />
      <Compile Include="Assets\Scripts\InteriorCameraController.cs" />
      <Compile Include="Assets\Scripts\PlayerLoader.cs" />
+     <Compile Include="Assets\Scripts\KeepAlive.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\UIFade.cs" />
      <Compile Include="Assets\Scripts\DialogManager.cs" />
      <Compile Include="Assets\Scripts\PlayerGridController.cs" />
-     <Compile Include="Assets\Scripts\DialogActivator.cs" />
      <Compile Include="Assets\Scripts\AreaEntrance.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\DialogLines.cs" />
     <Reference Include="UnityEngine">
         <HintPath>E:/Program Files (x86)/2020.2.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

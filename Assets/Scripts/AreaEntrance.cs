@@ -13,11 +13,11 @@ public class AreaEntrance : MonoBehaviour
         if (transitionName == PlayerGridController.instance.areaTransitionName)
         {
             PlayerGridController.instance.ground = GameObject.Find("Ground").GetComponent<Tilemap>();
-            PlayerGridController.instance.obstruction = GameObject.Find("Solid").GetComponent<Tilemap>();
-            PlayerGridController.instance.transform.position =
-                transform.position;
+			PlayerGridController.instance.obstruction = GameObject.Find("Solid").GetComponent<Tilemap>();
+			PlayerGridController.instance.hoppable = GameObject.Find("Hoppable").GetComponent<Tilemap>();
+            PlayerGridController.instance.transform.position = transform.position;
         }
-        UIFade.instance.FadeFromBlack();
+		UIFade.instance.FadeFromBlack();
     }
 
     // Update is called once per frame
