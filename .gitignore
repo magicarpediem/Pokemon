@@ -1,2 +1,6 @@
-Temp/
-PokeClone/
+/*
+/*/
+
+!.gitignore
+!/Assets/
+!/ProjectSettings/
